@@ -1,2 +1,7 @@
-# Decision-Tree-On-Titanic
-I built a machine learning model using Python and Pandas to predict Titanic passenger survival, leveraging EDA, feature engineering, and Decision Trees for accuracy. I developed a Flask-based web interface for real-time predictions and gained expertise in data preprocessing, model selection, and deployment.
+# DecisionTreeOnTitanic
+
+This project is built by analyzing the titanic dataset. The machine learning
+model can predict if a passenger survived the Historic Titanic Incident
+provided some of the passenger details. Flask framework with the help of
+Decision Tree is used to Built the Model. and the model is deployed on
+Heroku Cloud Platform.
